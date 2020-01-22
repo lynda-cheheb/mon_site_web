@@ -1,3 +1,5 @@
 tmp/todo.txt
 tmp/testignore.txt
 tmp/*
+*.txt
+
